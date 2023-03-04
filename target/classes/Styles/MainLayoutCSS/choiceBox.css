@@ -1,9 +1,0 @@
-ChoiceBox{
-  -fx-background-color:green;
-  -fx-pref-width:200px;
-}
-
-ChoiceBox:hover{
-  -fx-background-color:black;
-
-}
